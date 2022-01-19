@@ -1,0 +1,10 @@
+name: SlashRespawn
+version: 1.0
+author: raler
+main: com.raler.SlashRespawn.Main
+api-version: 1.18
+description: Allows spectators to respawn in survival mode at a random spot 35355.0 blocks away from spawn.
+commands:
+  respawn:
+    description: Respawns a spectator in survival mode at at a random spot 35355.0 blocks away from spawn.
+    usage: /<command> TRUE
